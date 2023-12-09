@@ -1,4 +1,5 @@
-Aprendi a colocar cada coisa em seu lugar
+Aprendi a estruturar o HTML e já incluindo o CSS como aplicando alinhamentos e espaçamentos no <br/>
+
 #NAV
 #MAIN
 #FOOTER
